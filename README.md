@@ -1,6 +1,6 @@
 #My skills
-+ HTML
-+ CSS
++ HTML   + CSS
+
 + SASS
 + JavaScript
 + Gulp
