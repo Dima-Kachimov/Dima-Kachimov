@@ -1,2 +1,3 @@
 #My skills
-+ [HTML]  [CSS] [SASS]  [JavaScript]  [Gulp]  [Git]
+
+HTML  CSS SASS  JavaScript  Gulp  Git
