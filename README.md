@@ -4,9 +4,5 @@
 
 
 
-      ![alt-текст](https://www.codewars.com/users/Dima-Kachimov/badges/large)
-
-
-
 
 
